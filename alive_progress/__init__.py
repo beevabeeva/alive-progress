@@ -9,4 +9,4 @@ __version__ = '.'.join(map(str, VERSION))
 __description__ = 'A new kind of Progress Bar, with real-time throughput, ' \
                   'ETA and very cool animations!'
 
-__all__ = ('alive_bar', 'alive_it', 'config_handler')
+__all__ = ('alive_bar', 'alive_it', 'config_handler','show_bars', 'show_spinners', 'showtime')
